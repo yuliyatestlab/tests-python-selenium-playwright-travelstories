@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+.venv/
+tests/.DS_Store
