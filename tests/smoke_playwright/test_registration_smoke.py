@@ -17,4 +17,4 @@ def test_registration_smoke(page: Page):
 
     #  Check successful redirect
     expect(page).to_have_url("https://yuliyatestlab.pythonanywhere.com/login")
-    expect(page.locator("#logout")).to_be_visible()
+    expect(page.locator("#login")).to_be_visible()
