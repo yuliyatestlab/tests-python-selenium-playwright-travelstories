@@ -34,7 +34,7 @@ jobs:
           pytest tests/smoke_playwright --alluredir=allure-results
 
       - name: Generate Allure report
-        run:
+        run:  |
           npm install -g allure-commandline --save-dev
           pytest tests/smoke_playwright --alluredir=allure-results
           allure generate allure-results -o allure-report --clean
