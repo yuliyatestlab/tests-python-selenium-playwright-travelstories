@@ -2,3 +2,6 @@
 .idea/
 .venv/
 tests/.DS_Store
+allure-results/
+allure-report/
+
