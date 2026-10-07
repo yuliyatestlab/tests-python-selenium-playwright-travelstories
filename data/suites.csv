@@ -1,4 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","4491","test_login_smoke[chromium]","tests.smoke_playwright","2026-10-05","passed","2026-10-05","","test_login_smoke","",""
-"","4736","test_logout_smoke[chromium]","tests.smoke_playwright","2026-10-05","passed","2026-10-05","","test_logout_smoke","",""
-"","1996","test_registration_smoke[chromium]","tests.smoke_playwright","2026-10-05","passed","2026-10-05","","test_registration_smoke","",""
+"","4581","test_login_smoke[chromium]","tests.smoke_playwright","2026-10-07","passed","2026-10-07","","test_login_smoke","",""
+"","4797","test_logout_smoke[chromium]","tests.smoke_playwright","2026-10-07","passed","2026-10-07","","test_logout_smoke","",""
+"","756","test_story_list_visible[chromium]","tests.smoke_playwright","2026-10-07","passed","2026-10-07","","test_story_list_visible_smoke","",""
+"","1940","test_registration_smoke[chromium]","tests.smoke_playwright","2026-10-07","passed","2026-10-07","","test_registration_smoke","",""
